@@ -2,7 +2,7 @@
 
 # Kaden Smith
 
-## Favorite TV Show: Devil May Cry
+## Favorite TV Show: Supernatural
 
 I like Supernatural because I watched the show with my **friends and girlfriend** and we all **enjoyed** it and talked about it afterwards.
 
