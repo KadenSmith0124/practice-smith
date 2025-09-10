@@ -29,4 +29,14 @@ A table of people I'd like to meet:
 | Jenson Ackles | I think he's really cool | March 1, 1978| N/A |
 | Hugh Jackman | He seems like a really cool dude | October 12, 1968 | N/A |
 
+---
+
+# Quotes
+
+>Nothing in life is to be feared, it is only to be understood
+>>*Marie Curie*
+
+>Imagination is more important than knowledge.
+>>*Einstein*
+
 [Link to MyActivity](MyActivity.md)
