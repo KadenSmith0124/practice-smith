@@ -4,4 +4,16 @@
 
 ## Favorite TV Show: Devil May Cry
 
-I like Devil May Cry because I watched the show with my **friends and girlfriend** and we all **enjoyed** it and talked about it afterwards.
+I like Supernatural because I watched the show with my **friends and girlfriend** and we all **enjoyed** it and talked about it afterwards.
+
+---
+
+# Actors
+
+1. Jensen Ackles
+2. Jared Padalecki
+3. Misha Collins
+
+* Mark Sheppard
+* Jim Beaver
+* Jeffery Dean Morgan
