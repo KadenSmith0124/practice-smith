@@ -23,7 +23,7 @@ I like Supernatural because I watched the show with my **friends and girlfriend*
 A table of people I'd like to meet:
 
 | Name | Reason | DoB | DoD |
-| ------ |
+| ------ | ------ | ------ | ------ |
 | Henry Cavill | He's a giant nerd and I think he's cool | May 5, 1983 | N/A |
 | Ryan Reynolds | He's super funny | October 23, 1976| N/A |
 | Jenson Ackles | I think he's really cool | March 1, 1978| N/A |
