@@ -39,4 +39,20 @@ A table of people I'd like to meet:
 >Imagination is more important than knowledge.
 >>*Einstein*
 
+-----
+
+# Code Fencing
+The code snippit is used for updating an exisitng file in Node.js
+```
+const fileSystem = require('fs');
+
+const updateFile = (fileName, text) => {
+	fileSystem.appendFile(fileName, text, (error) => {
+		if (error) throw error;
+		console.log('Updated the file!');
+	});
+};  
+```
+[Code Snippit](https://code.pieces.app/collections/node-js)
+
 [Link to MyActivity](MyActivity.md)
